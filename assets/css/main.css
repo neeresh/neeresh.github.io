@@ -1635,7 +1635,6 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
-			height: auto;
 		}
 
 		.image.featured {
@@ -1833,7 +1832,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-linkedin-in {
-					background-color: #006599;
+					background-color: #0077b5;
 				}
 
 				ul.social li a.fa-tumblr {
@@ -1849,7 +1848,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-github {
-					background-color: #7b7272;
+					background-color: ##171515;
 				}
 
 				ul.social li a.fa-rss {
@@ -1857,7 +1856,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-instagram {
-					background-color: #8f008f;
+					background-color: #fb3958;
 				}
 
 				ul.social li a.fa-foursquare {
@@ -2449,7 +2448,6 @@ input, select, textarea {
 
 	}
 
-
 	.skills-diagram {
 		font-size: 16px;
 		font-weight: bold;
@@ -2606,5 +2604,25 @@ input, select, textarea {
 	  h1 {
 		color: #cecece;
 		text-shadow: 0 1px 1px #fff;
+	  }	 
+
+
+
+
+	  ul.container {
+		background-color: #282828;
+		overflow: auto;
+		white-space: nowrap;
 	  }
 	  
+	  ul.container a {
+		display: inline-block;
+		color: white;
+		text-align: center;
+		padding: 14px;
+		text-decoration: none;
+	  }
+	  
+	  ul.container a:hover {
+		background-color: #777;
+	  }
