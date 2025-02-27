@@ -81,7 +81,6 @@ _[October, 2024] One paper accepted by WACV 2025._
 <b>Under Review</b>
 <br>_[February, 2025] One paper submitted to Multimedia Tools and Applications._
 <br>_[December, 2024] One paper submitted to Neural Networks._
-<br>
 ---
 
 ## <span>Teaching & Service</span>
