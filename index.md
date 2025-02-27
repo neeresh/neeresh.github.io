@@ -85,20 +85,15 @@ _[October, 2024] One paper accepted by WACV 2025._
 - <b>COMP.5230: Computer Vision, Spring 2025</b> @ UMass Lowell.
 - <b>DSC-520: High Performance Scientific Computing, Fall 2023</b> @ UMass Dartmouth. 
 
----
 
 ## <span>Past Research Experience</span>
 - **[Apple Silicon Cluster for Gravitational-Wave Astronomy](https://github.com/neeresh/GravWave-AppleM2-Analysis)**  
   **Advisor:** [Collin D. Capano](https://collincapano.com)
 
----
-
 ## <span>Industry Experience</span>
 - **Programmer Analyst** @ Cognizant _(March 2021 - December 2022)_  
 - **Data Engineer Intern** @ Cognizant _(February 2020 - September 2020)_  
 - **Artificial Intelligence Intern** @ WingfoTech _(May 2019 - July 2019)_
-
----
 
 ## <span>Let's Connect</span>
 
