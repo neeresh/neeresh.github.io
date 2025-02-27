@@ -39,7 +39,7 @@ description: Neeresh Perla's Website
 
 # <span>Neeresh Kumar Perla</span>
 
-<img src="/static/neeresh1.jpg" alt="Neeresh Kumar Perla" style="width: 220px; height: 210px; float: right; margin: 10px; border-radius: 10px;"/>
+<img src="/static/neeresh1.jpg" alt="Neeresh Perla" style="width: 220px; height: 210px; float: right; margin: 10px; border-radius: 10px;"/>
 
 <span>
 I am a <b>first-year</b> Computer Science Ph.D. student at the University of Massachusetts Lowell, advised by 
