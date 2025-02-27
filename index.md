@@ -1,74 +1,108 @@
 ---
 layout: default
 title: Neeresh Kumar Perla
-description: Neeresh Perla's website
+description: Neeresh Perla's Website
 ---
 
-# <span style="font-family:'Candara Light';"> Neeresh Kumar Perla </span>
+<style>
+    body {
+        font-family: 'Candara Light', sans-serif;
+        max-width: 900px;
+        margin: auto;
+        padding: 20px;
+        line-height: 1.7;
+    }
+    h1, h2 {
+        color: #2c3e50;
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 5px;
+    }
+    img {
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2, p, span, ul, li {
+        font-size: 18px; /* Set the same font size for all text elements */
+    }
+    a {
+        color: #3498db;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .contact-links a {
+        margin-right: 15px;
+        font-weight: bold;
+    }
+</style>
 
-<img src="/static/neeresh1.jpg" alt="Aditi" style="width: 220px; height: 210px; float: right; margin: 10px"/>
+# <span>Neeresh Kumar Perla</span>
 
-<span style="font-family:'Candara Light';">
-I am a first year CS Ph.D. student at University of Massachusetts Dartmouth. I am advised by [Ming Shao](https://www.umassd.edu/directory/mshao/). My current focus is on computer vision, and time series analysis.
+<img src="/static/neeresh1.jpg" alt="Neeresh Kumar Perla" style="width: 220px; height: 210px; float: right; margin: 10px; border-radius: 10px;"/>
+
+<span>
+I am a <b>first-year</b> Computer Science Ph.D. student at the University of Massachusetts Lowell, advised by 
+<a href="https://www.uml.edu/sciences/computer-science/people/shao-ming.aspx" target="_blank">Ming Shao</a>. My research lies at the intersection of <b>machine learning</b> and <b>computer vision</b>, focusing on advancing AI models and their applications.
 </span>
 
-<span style="font-family:'Candara Light';">
-Prior to joining the Ph.D. program at UMass Dartmouth, I worked at Cognizant as a Programmer Analyst. I received my Bachelor’s degree in Electrical and Electronics Engineering from Mahatma Gandhi Institute of Technology, Hyderabad, in 2020. After completing one year of my Master’s program, I transitioned directly into the Ph.D. program.
+<br><br>
 
+## <span>Research Interests</span>
 
-<span style="font-family:'Candara Light';">
-Apart from work, I enjoy reading, travelling and watching anime.
+<ul>
+    <li><strong>Transfer Learning</strong> – fine-tuning, domain adaptation, domain generalization.</li>
+    <li><strong>Self-Supervised Learning</strong> – contrastive learning, masked modeling.</li>
+    <li><strong>Vision-Language Models</strong> - reasoning, fine-tuning, reinforcement learning</li>
+    <li><strong>Diffusion Models</strong> – image generation and editing, AI agents.</li>
+</ul>
+
+<br><br>
+
+## <span>Contact</span>
+
+<span>
+<b>Email:</b> neereshkumar_perla@student.uml.edu (or) nperla@umassd.edu (or) neereshkumar.nk@gmail.com
 </span>
 
-\[[Resume](/static/resume.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=2qrVR3sAAAAJ&hl=en)\]
+<div class="contact-links">
+    [<a href="https://scholar.google.com/citations?user=2qrVR3sAAAAJ&hl=en">Google Scholar</a>]
+    [<a href="https://www.linkedin.com/in/nperla/" target="_blank">LinkedIn</a>] 
+    [<a href="https://github.com/neeresh" target="_blank">GitHub</a>]
+    [<a href="https://medium.com/@NeereshPerla" target="_blank">Medium</a> ]
+    [<a href="/static/resume.pdf" target="_blank">Resume</a>]
+</div>
+
+## <span>News</span>
+_[October, 2024] One paper accepted by WACV 2025._
 
 ---
 
-## <span style="font-family:'Candara Light';">Contact</span>
-
-<span style="font-family:'Candara Light';">
-**Email:** nperla at umassd.edu
-</span>
-
-\[[Twitter](https://x.com/NeereshPerla)\] \[[LinkedIn](https://www.linkedin.com/in/nperla/)\] \[[Github](https://github.com/neeresh)\]  
-
----
-
-## <span style="font-family:'Candara Light';">Publications</span>
 **Under Review**
+<br>_[February, 2025] One paper submitted to Multimedia Tools and Applications._
+<br>_[December, 2024] One paper submitted to Neural Networks._
+<br>
+---
 
-[//]: # (- [Are Exemplar-Based Class Incremental Learning Models Victim of Black-box Poison Attacks?]&#40;https://eprint.iacr.org/2023/1724&#41; <br>)
-
-[//]: # (    **NK. Perla**, MI. Hossain, A. Sajeeda and M. Shao. <br>)
-
-[//]: # (    *Under Review*)
-
-[//]: # ()
-[//]: # (- [Robust Defense Strategies for Multimodal Contrastive Learning: Efficient Fine-tuning Against Backdoor Attacks]&#40;https://eprint.iacr.org/2023/1724&#41; <br>)
-
-[//]: # (    MI. Hossain, **NK. Perla**, A. Sajeeda and M. Shao. <br>)
-
-[//]: # (    *Under Review*)
+## <span>Teaching & Service</span>
+- <b>COMP.5230: Computer Vision, Spring 2025</b> @ UMass Lowell.
+- <b>DSC-520: High Performance Scientific Computing, Fall 2023</b> @ UMass Dartmouth. 
 
 ---
 
-## <span style="font-family:'Candara Light';"> Teaching & Service </span>
-
-<!-- <span style="font-family:'Candara Light';"> -->
-- Grader for DSC-520: Computational Methods, Fall 2023.
-<!-- </span> -->
+## <span>Past Research Experience</span>
+- **[Apple Silicon Cluster for Gravitational-Wave Astronomy](https://github.com/neeresh/GravWave-AppleM2-Analysis)**  
+  **Advisor:** [Collin D. Capano](https://collincapano.com)
 
 ---
 
-## <span style="font-family:'Candara Light';">Past Research Experience</span>
-- [Apple Silicon Cluster for Gravitational-Wave Astronomy](https://github.com/neeresh/GravWave-AppleM2-Analysis) <br>
-    Advisor: [Collin D. Capano](https://collincapano.com)
+## <span>Industry Experience</span>
+- **Programmer Analyst** @ Cognizant _(March 2021 - December 2022)_  
+- **Data Engineer Intern** @ Cognizant _(February 2020 - September 2020)_  
+- **Artificial Intelligence Intern** @ WingfoTech _(May 2019 - July 2019)_
+
 ---
 
-## <span style="font-family:'Candara Light';"> Industry Experience</span>
+## <span>Let's Connect</span>
 
-<!-- <span style="font-family:'Candara Light';"> -->
-- Programmer Analyst @Cognizant, March 2021 - December 2022
-- Data Engineer Intern @Cognizant, February 2020 - September 2020
-- Artificial Intelligence Intern @WingfoTech, May 2019 - July 2019
-<!-- </span> -->
+<p>I am open to <strong>internship opportunities</strong> and <strong>collaborations</strong>. If you're interested, feel free to reach out!</p>
