@@ -74,7 +74,7 @@ I am a <b>first-year</b> Computer Science Ph.D. student at the University of Mas
 </div>
 
 ## <span>News</span>
-<br>_[March, 2025] One paper accepted by IEEE/CHASE 2025._
+<br>_[March, 2025] One paper accepted by IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE 2025)._
 <br>_[October, 2024] One paper accepted by WACV 2025._
 
 ---
